@@ -1,7 +1,7 @@
 using System;
 using WarehouseManagementSystem.Models;
 
-namespace Õ¿œ»ÿ»_“” _—⁄Ÿ»ﬂ_NAMESPACE_Œ“_PRODUCT_CS
+namespace WarehouseManagementSystem.Models
 {
     abstract class WarehouseCreator
     {
